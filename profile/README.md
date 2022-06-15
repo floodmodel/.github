@@ -4,4 +4,4 @@
 * GRM, G2D, K-FRM 등에 대한 프로그램, 매뉴얼, [**교육 동영상 등**](https://github.com/floodmodel/References)을 제공하고 있습니다.<br/> 
 * QGIS3.10에서 구동되는 최신 Plug-In은 [**"Plugin_repository_QGIS3.10"**](https://github.com/floodmodel/Plugin_repository_QGIS3.10)에 있습니다. ([**K-FRM**](https://github.com/floodmodel/K-FRM) 등은 별도) <br/>  
 * [**GRM**](https://github.com/floodmodel/GRM), [**G2D**](https://github.com/floodmodel/G2D) Repositories에서는 각 Model의 Solver에 대한 Source Code(C++)를 관리하고 있습니다.<br/>
-* 각 프로그램에 대한 설명 web page는 해당 github repository **Wiki**를 이용해 구성되어 있습니다. (참고 : [Markdown](https://gist.github.com/ihoneymon/652be052a0727ad59601) <br/>
+* 각 프로그램에 대한 설명 web page는 해당 github repository **Wiki**를 이용해 구성되어 있습니다. ([Markdown 문법](https://gist.github.com/ihoneymon/652be052a0727ad59601)) <br/>
