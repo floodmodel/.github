@@ -1,9 +1,10 @@
 ## KICT Floodmodel organization
 * [**KICT**](https://www.kict.re.kr/)와 [**HermeSys**](http://www.hermesys.co.kr/)에서 공동으로 운영중인 GitHub organization 입니다.<br/>  
 * [**QGIS**](https://github.com/floodmodel/Plugin_repository_QGIS3.10/wiki#2-qgis-%EA%B4%80%EB%A0%A8%EC%82%AC%EC%9D%B4%ED%8A%B8)기반 분포형 강우-유출해석, 범람해석, 피해액추정 등이 가능한  [**Hydrological Model-Chain**](https://drive.google.com/file/d/1xbzCT-Mszed48svUxnRVJiDXEVrx7h16/view?usp=sharing) 을 구성할 수 있습니다.<br/>  
-* GRM, G2D, K-FRM 등에 대한 프로그램, 매뉴얼, [**교육 동영상 등**](https://github.com/floodmodel/References)을 제공하고 있습니다.<br/> 
+* GRM, G2D, K-FRM 등에 대한 프로그램, 매뉴얼, [**교육 동영상 등**](https://github.com/floodmodel/References)을 제공하고 있습니다. <br/> 
 * QGIS3.10에서 구동되는 최신 Plug-In은 [**"Plugin_repository_QGIS3.10"**](https://github.com/floodmodel/Plugin_repository_QGIS3.10)에 있습니다. ([**K-FRM**](https://github.com/floodmodel/K-FRM) 등은 별도) <br/>  
 * [**GRM**](https://github.com/floodmodel/GRM), [**G2D**](https://github.com/floodmodel/G2D) Repositories에서는 각 Model의 Solver에 대한 Source Code(C++)를 관리하고 있습니다.<br/>
 * 각 프로그램에 대한 설명 web page는 해당 github repository **Wiki**를 이용해 구성되어 있습니다. ([Markdown 문법](https://gist.github.com/ihoneymon/652be052a0727ad59601)) <br/>
 * WMO(World MeteorologicalOrganization)의  [**CoP(Community of Practice)  홈페이지**](https://www.floodmanagement.info/e2e-ews-ff-community-of-practice-area/)에서  홍수 예측 및 조기 경보 시스템에서 장기적으로 성공할 가능성이 가장 큰 모델 중 하나로 [**GRM이 소개**](https://www.floodmanagement.info/e2e-ews-ff-community-of-practice-area/resources/inventory/)되고 있습니다.
 * [**2022년 KDI 예비타당성조사 수행을 위한 세부지침(수자원부분)**](https://github.com/floodmodel/K-FRM/blob/main/Reference/%5B%EB%B3%B4%EA%B3%A0%EC%84%9C%5D%20%EC%98%88%EB%B9%84%ED%83%80%EB%8B%B9%EC%84%B1%EC%A1%B0%EC%82%AC%20%EC%88%98%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%84%B8%EB%B6%80%EC%A7%80%EC%B9%A8%20%EC%88%98%EC%9E%90%EC%9B%90%EB%B6%80%EB%AC%B8%20%EA%B0%9C%EC%A0%95%20%EC%97%B0%EA%B5%AC_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf) : 한국개발연구원(KDI) 예타지침에 K-FRM 반영
+* [**2023수자원워크샵**] 자료(샘플 등) (https://jejustorageaccount.z12.web.core.windows.net/2023ws.zip)
