@@ -8,4 +8,8 @@
 * WMO(World MeteorologicalOrganization)의  [**CoP(Community of Practice)  홈페이지**](https://www.floodmanagement.info/e2e-ews-ff-community-of-practice-area/)에서  홍수 예측 및 조기 경보 시스템에서 장기적으로 성공할 가능성이 가장 큰 모델 중 하나로 [**GRM이 소개**](https://www.floodmanagement.info/e2e-ews-ff-community-of-practice-area/resources/inventory/)되고 있습니다.
 * [**2022년 KDI 예비타당성조사 수행을 위한 세부지침(수자원부분)**](https://github.com/floodmodel/K-FRM/blob/main/Reference/%5B%EB%B3%B4%EA%B3%A0%EC%84%9C%5D%20%EC%98%88%EB%B9%84%ED%83%80%EB%8B%B9%EC%84%B1%EC%A1%B0%EC%82%AC%20%EC%88%98%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%84%B8%EB%B6%80%EC%A7%80%EC%B9%A8%20%EC%88%98%EC%9E%90%EC%9B%90%EB%B6%80%EB%AC%B8%20%EA%B0%9C%EC%A0%95%20%EC%97%B0%EA%B5%AC_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf) : 한국개발연구원(KDI) 예타지침에 K-FRM 반영
 * [**2023수자원워크샵**](https://jejustorageaccount.z12.web.core.windows.net/2023ws.zip) 자료(qgis 등)
-* * [**2023수자원워크샵**](https://github.com/floodmodel/References/tree/main/2023%EC%88%98%EA%B3%B5%ED%95%99%EC%9B%8C%ED%81%AC%EC%83%B5%EC%A4%80%EB%B9%84) 자료(sample data 만)
+* [**2023수자원워크샵**](https://github.com/floodmodel/References/tree/main/2023%EC%88%98%EA%B3%B5%ED%95%99%EC%9B%8C%ED%81%AC%EC%83%B5%EC%A4%80%EB%B9%84) 자료(sample data 만)
+* 2023수자원워크샵 위한 QGIS XML 주소
+* https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.10/main/plugins.xml
+* https://raw.githubusercontent.com/floodmodel/K-FRM/main/plugins.xml
+
