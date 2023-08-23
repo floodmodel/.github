@@ -12,4 +12,5 @@
 * 2023수자원워크샵 위한 QGIS XML 주소
 * https://raw.githubusercontent.com/floodmodel/Plugin_repository_QGIS3.10/main/plugins.xml
 * https://raw.githubusercontent.com/floodmodel/K-FRM/main/plugins.xml
+* 2023 workshop 준비  https://docs.google.com/presentation/d/1TJs1J9Tg3A_eDiFf2oxtiW3k5P9yn3RKOD0GRwyQtis/edit#slide=id.g23d824e1ce4_0_1
 
