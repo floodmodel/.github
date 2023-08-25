@@ -14,6 +14,6 @@
 * https://raw.githubusercontent.com/floodmodel/K-FRM/main/plugins.xml
 * 2023 workshop 준비  https://docs.google.com/presentation/d/1TJs1J9Tg3A_eDiFf2oxtiW3k5P9yn3RKOD0GRwyQtis/edit#slide=id.g23d824e1ce4_0_1
 
-* [**taudem 5.3.1 prelease**](https://github.com/dtarb/TauDEM/releases/tag/v5.3.1) download
+* [**taudem 5.3.1 prelease**](https://github.com/dtarb/TauDEM/releases/tag/v5.3.1) download  (2023.8.25 실습실에서 사용할)
 
 
